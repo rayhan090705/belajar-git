@@ -1,8 +1,9 @@
 menambahkan file
 menambahkan baris di file 1
 
-<<<<<<< HEAD
+
+
 feature a
-=======
 menambahkan feature b
->>>>>>> featur/b
+featur c
+
