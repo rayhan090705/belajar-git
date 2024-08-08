@@ -2,3 +2,4 @@ menambahkan file
 menambahkan baris di file 2
 
 Feature a
+menambahkan feature b
